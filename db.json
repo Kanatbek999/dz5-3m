@@ -1,0 +1,78 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "title": "Nike Air Max 270",
+            "gender": "Men",
+            "brend": "Nike",
+            "category": "Street",
+            "price": 8000,
+            "images": "https://static.nike.com/a/images/t_PDP_1280_v1/5e1b2266-e664-4ddc-ae5e-511453bb5b6b/air-max-270-g-golf-ayakkab%C4%B1s%C4%B1-gTpCFg.jpg"
+        },
+        {
+            "id": 2,
+            "title": "HYBRID NX Men's Running Shoes",
+            "gender": "Men",
+            "brend": "Puma",
+            "category": "Runnig",
+            "price": 15000,
+            "images": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/192259/02/sv01/fnd/IND/fmt/png/HYBRID-NX-Men's-Running-Shoes"
+        },
+        {
+            "id": 3,
+            "title": "Adidas MAHOMES 1 IMPACT FLX SHOES",
+            "gender": "Men",
+            "brend": "Adidas",
+            "category": "Running",
+            "price":20000,
+            "images": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e2e35004ec594c93a593ae85011d8e5d_9366/Mahomes_1_Impact_FLX_Shoes_Red_GZ5006.jpg"
+        },
+        {
+            "id": 4,
+            "title": "New Balance",
+            "gender": "Men",
+            "brend": "new balance",
+            "category": "Training",
+            "price": 10000,
+            "images": "https://www.deadstock.de/wp-content/uploads/2021/07/New-Balance-530-Beige-titel.jpg"
+        },
+        {
+            "id": 5,
+            "title": "New Balance",
+            "gender": "Women",
+            "brend": "New balance",
+            "category": "Training",
+            "price": 30000,
+            "images": "https://www.deadstock.de/wp-content/uploads/2021/07/New-Balance-530-Beige-titel.jpg"
+        },
+        {
+           "id": 6,
+            "title": "Nike Zoom Mercurial Elite",
+            "gender": "Men",
+            "brend": "Nike",
+            "category": "Training",
+            "price": 35000,
+            "images": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0bf5223f-133a-444d-b095-33975925a978/custom-nike-zoom-mercurial-vapor-15-elite-by-you.png" 
+        },
+        {
+           "id": 6,
+            "title": "Adidas Runfalcon 2.0 Women",
+            "gender": "Women",
+            "brend": "Adidas",
+            "category": "Runnig",
+            "price": 35000,
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCawG13JsCjAJBPkkteN8a4GugrbvQTwU2S7wIlHr6LyENcDChBC1GC5Xzny8LDBXx1Ho&usqp=CAU" 
+        },
+        {
+           "id": 6,
+            "title": "Nike tanjun high rise",
+            "gender": "Women",
+            "brend": "Nike",
+            "category": "Winter shoes",
+            "price": 25000,
+            "images": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/dgmcrenawg7jlddfhgq0/tanjun-high-rise-womens-shoes-wqktQD.png" 
+        }
+            
+        
+    ]
+}
